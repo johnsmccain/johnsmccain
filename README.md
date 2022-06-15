@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**johnsmccain/johnsmccain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+My name is **John Danlami** and I'am a **Software Engineering** student at **ALX Africa** 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Blosh Tech](https://github.com/johnsmccain/bloshtech) at the moment.
+- 🌱 I’m currently learning Fullstack development at **ALX_T**
+- 👯 I’m looking to collaborate on an open source project
+- 🤔 I’m looking for help with Job
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me:
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/johnsdanlami)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/johnsdanlami)
+- 😄 Pronouns: Him/he
+- ⚡ Fun fact: I learn like crezy
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsmccain&show_icons=true&theme=radical)](https://github.com/johnsmccain/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmccain&&show_icons=true&theme=radical&layout=compact)](https://github.com/johnsmccain/github-readme-stats)
+
