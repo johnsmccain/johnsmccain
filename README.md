@@ -3,8 +3,6 @@
 
 My name is **John Danlami** and I'am a **Software Engineering** student at **ALX Africa** 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Blosh Tech](https://github.com/johnsmccain/bloshtech) at the moment.
 - 🌱 I’m currently learning Fullstack development at **ALX_T**
 - 👯 I’m looking to collaborate on an open source project
