@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **John Danlami** and I'am a **Software Engineering** student at **ALX Africa** 
+My name is **John Danlami**, I'am a **Software Engineering** student at **ALX Africa** 
 
 - 🔭 I’m currently working on [Blosh Tech](https://github.com/johnsmccain/bloshtech) at the moment.
 - 🌱 I’m currently learning Fullstack development at **ALX_T**
