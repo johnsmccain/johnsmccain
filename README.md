@@ -3,7 +3,7 @@
   
 ---
 
-I'm **John Danlami**, a passionate self-taught Front-End Web Developer and a **Software Engineering** student at **ALX Africa**. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript. Also on the flip side, I like to dabble in sort of frameworks like React, Express and Flask, new technologies and languages like Python, C, Amazon Web Services, Back-End Development..
+I'm **John Danlami**, a passionate self-taught Web Developer <!--and a **Software Engineering** student at **ALX Africa** -->. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript. Also on the flip side, I like to dabble in sort of frameworks like React, Express and Flask, new technologies and languages like Python, C, Amazon Web Services, Back-End Development..
 
 
 
