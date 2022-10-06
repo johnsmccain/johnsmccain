@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johnsmccain" alt="johnsmccain" /></a> </p>
 ---
 
-A <b>Software Engineering</b> student at <b>ALX Africa</b>. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript. Also on the flip side, I like to dabble in sort of frameworks like React, Express and Flask, new technologies and languages like Python, C, Amazon Web Services, Back-End Development..
+A self motivated <b>ALX</b>'s <b>Software Engineering</b> student. I wouldn't like to align myself to one particular field of technology, because I partake/have interest in multiple kinds. I am proficient in languages like HTML, CSS, Javascript. Also on the flip side, I like to dabble in sort of frameworks like React, Express and Flask, new technologies and languages like Python, C, Amazon Web Services, Back-End Development..
 
 
 
