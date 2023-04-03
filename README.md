@@ -13,10 +13,10 @@ A self motivated <b>ALX</b>'s <b>Software Engineering</b> student. I wouldn't li
   
   ---
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=johnsmccain&show_icons=true&theme=radical" alt="johnsmccain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmccain&&show_icons=true&theme=radical&layout=compact" alt="johnsmccain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmccain&&show_icons=true&theme=radical&layout=compact" alt="johnsmccain" /></p> -->
 
 
 
