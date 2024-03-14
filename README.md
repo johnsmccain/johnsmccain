@@ -26,6 +26,7 @@ A self motivated <b>ALX</b>'s <b>Software Engineering</b> student. I wouldn't li
 - 🔭 I’m currently working on [Blosh Tech](https://github.com/johnsmccain/bloshtech) at the moment.
 - 🌱 I’m currently learning Fullstack development at **ALX_T**
 - 📫 How to reach me:
+[![Website Badge](https://img.shields.io/badge/Website-Profile-informational?style=flat&logo=Website&logoColor=white&color=1CA2F1)](https://johnsdanlami.netlify.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/johnsdanlami)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/john-danlami-b5a745154)
 
